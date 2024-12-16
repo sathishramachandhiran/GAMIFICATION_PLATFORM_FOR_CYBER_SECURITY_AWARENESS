@@ -1,4 +1,3 @@
-Here's the updated version based on the MERN stack:
 
 # GAMIFICATION PLATFORM FOR CYBERSECURITY AWARENESS
 
